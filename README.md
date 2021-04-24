@@ -3,7 +3,7 @@
 ## Python 3.6
 
 ## Introduction
-The purpose of this project is to explore if and to  what degree a state’s single motherhood rate impacts the state’s poverty rate. This analysis will be conducted exclusively within the Python environment. Given that the analysis is a single linear regression analysis, the statistical significance of the findings will be scrutinzed. To provide an understanding of any geographic patterns embedded within the poverty and single motherhood data, two interactive choropleth maps were produced. As such, the reader can develop a more robust understanding of not only if there is a statistically significant relationship between the discussed variables, but where the relationship appears most pronounced.
+The purpose of this project is to explore if and to  what degree a state’s single motherhood rate impacts the state’s poverty rate. The analysis was conducted exclusively within the Python environment. Given that the analysis was a single linear regression analysis, the statistical significance of the findings were scrutinzed and limitations discussed. To provide an understanding of any geographic patterns embedded within the poverty and single motherhood data, two interactive choropleth maps were produced. As such, the reader can develop a more robust understanding of not only if there is a statistically significant relationship between the discussed variables, but where the relationship appears most pronounced.
  
 
 ## General Tasks Accomplished
@@ -50,6 +50,44 @@ the adequate and sound evidence that is needed for the institution of viable pub
 
 
 ![Regression_Snap](https://user-images.githubusercontent.com/54545486/115966163-507e8d80-a4e1-11eb-9055-be11f49e3bde.JPG)
+
+
+### Sources that helped me develop this project
+
+Beers, Brian. (2021, April 15). P-Value. Retrieved from https://www.investopedia.com/terms/p/pvalue.asp
+
+Geeks for Geeks. (2020, July 17). Ordinary Least Square (OLS) using statsmodels. Retrieved from 
+https://www.geeksforgeeks.org/ordinary-least-squares-ols-using-statsmodels/?ref=rp.
+
+Geeks for Geeks. (2020, April 21). Plot Mathematical Expressions in Python using Matplotlib. Retrieved 
+from https://www.geeksforgeeks.org/plot-mathematical-expressions-in-python-using-matplotlib/.
+
+Geospatial Technology. (2019, August 21). What is a TIGER file? Retrieved from 
+https://mapasyst.extension.org/what-is-a-tiger-file/
+
+GeoPandas. (n.d.). GeoPandas 0.9.0. Retrieved from https://geopandas.org/.
+
+Stojiljkovic, Mirko. (n.d.). Linear Regression in Python. Retrieved from https://realpython.com/linearregression-in-python/#implementing-linear-regression-in-python
+
+United States Census Bureau. (n.d.). When to Use 1-year, 3-year, or 5-year Estimates. Retrieved from 
+https://www.census.gov/programs-surveys/acs/guidance/estimates.html.
+
+### Data Sources
+
+United States Census Bureau, American Community Survey. (2019). Poverty Status in the Past 12 
+months. Retrieved from 
+https://data.census.gov/cedsci/table?t=Poverty&g=0100000US.04000.001&tid=ACSST5Y2019.S
+1701&hidePreview=true
+
+United States Census Bureau, American Community Survey. (2019). Selected Social Characteristics in 
+the United States. Retrieved from
+https://data.census.gov/cedsci/table?t=Families%20and%20Living%20Arrangements&g=010000
+0US.04000.001&tid=ACSDP5Y2019.DP02&hidePreview=tru
+
+
+## Status of Project
+Completed as planned. However, this was a simple statistical analysis. I would like to aggregate more data sources to create a more reliable model by using
+mulitple linear regression as opposed to simple linear regression.
 
 
 
