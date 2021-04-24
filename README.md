@@ -37,7 +37,7 @@ the adequate and sound evidence that is needed for the institution of viable pub
 
 
 
-### Interactive Choropleth Maps (static image below, only)
+### Interactive Choropleth Maps (static images below, only)
 ![SM_Choropleth](https://user-images.githubusercontent.com/54545486/115966107-19a87780-a4e1-11eb-9c51-64387e41bdb1.JPG)
 
 
